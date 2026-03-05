@@ -1,1 +1,5 @@
 git Cloud: cloud means using someone's computer(software, server, networking, services, storage) over the internet instead of using our own.
+Advantages of Cloud:
+-Less maintanence
+-Easy Access from anywhere
+-No need to buy anything, we just pay rent.
