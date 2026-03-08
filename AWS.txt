@@ -1,0 +1,2 @@
+AWS is a cloud platform which gives rent server,network, software and storage.
+AWS is derived as Amazon Web Service.
