@@ -1,2 +1,4 @@
 AWS is a cloud platform which gives rent server,network, software and storage.
 AWS is derived as Amazon Web Service.
+AWS Console is the console where we can access the resources or services.
+AWS region is the location where cloud providers had data centers. 
